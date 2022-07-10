@@ -1,0 +1,9 @@
+.DS_Store
+.firebase
+.firebaserc
+*.local
+.vscode
+dist
+dist-ssr
+firebase-debug.log
+node_modules
